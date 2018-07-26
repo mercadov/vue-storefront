@@ -1,0 +1,26 @@
+{
+  "slides": [
+    {
+      "title": "Mercado V",
+      "subtitle": "Acessórios de moda",
+      "button_text": "Confira nossa coleção",
+      "image": "/assets/slide_01.jpg",
+      "link": "/c/linha-feminina-2"
+    },
+    {
+      "title": "Colares",
+      "subtitle": "Nova coleção",
+      "button_text": "Embeleze-se",
+      "image": "/assets/slide_02.jpg",
+      "link": "/c/pulseiras-4"
+    },
+    {
+      "title": "Pulseiras masculinas",
+      "subtitle": "Mó balaca",
+      "button_text": "Quero uma!",
+      "image": "/assets/slide_03.jpg",
+      "link": "/c/brincos-5"
+    }
+  ],
+  "total": "3"
+}
